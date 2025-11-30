@@ -1,8 +1,7 @@
 
   # Travel Connect UI Kit
 
-  This is a code bundle for Travel Connect UI Kit. The original project is available at https://www.figma.com/design/hwFobtxVGXM1s0tv3xz8jy/Travel-Connect-UI-Kit.
-
+  This is a code bundle for Travel Connect UI Kit. 
   ## Running the code
 
   Run `npm i` to install the dependencies.
